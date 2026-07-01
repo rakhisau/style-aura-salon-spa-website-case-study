@@ -53,18 +53,60 @@ I worked on the website structure, page layout, content placement, responsive de
 ### Homepage
 
 ![Homepage Screenshot](screenshots/home-page-1.png)
+![Homepage Screenshot](screenshots/home-page-2.png)
+![Homepage Screenshot](screenshots/home-page-3.png)
+![Homepage Screenshot](screenshots/home-page-4.png)
+![Homepage Screenshot](screenshots/home-page-5.png)
+![Homepage Screenshot](screenshots/home-page-6.png)
+![Homepage Screenshot](screenshots/home-page-7.png)
+![Homepage Screenshot](screenshots/home-page-8.png)
 
 ### Services Dropdown
 
 ![Services Dropdown Screenshot](screenshots/services-dropdown.png)
 
+### Spa Service Section
+
+![Spa Service Section Screenshot](screenshots/spa-service-section-1.png)
+![Spa Service Section Screenshot](screenshots/spa-service-section-2.png)
+![Spa Service Section Screenshot](screenshots/spa-service-section-3.png)
+![Spa Service Section Screenshot](screenshots/spa-service-section-4.png)
+![Spa Service Section Screenshot](screenshots/spa-service-section-5.png)
+
+### Hair Service Section
+![Hair Service Section Screenshot](screenshots/hair-service-section-1.png)
+![Hair Service Section Screenshot](screenshots/hair-service-section-2.png)
+![Hair Service Section Screenshot](screenshots/hair-service-section-3.png)
+![Hair Service Section Screenshot](screenshots/hair-service-section-4.png)
+![Hair Service Section Screenshot](screenshots/hair-service-section-5.png)
+
+### Skin Care Section
+![Skin Care Section Screenshot](screenshots/skin-care-section-1.png)
+![Skin Care Section Screenshot](screenshots/skin-care-section-2.png)
+![Skin Care Section Screenshot](screenshots/skin-care-section-3.png)
+![Skin Care Section Screenshot](screenshots/skin-care-section-4.png)
+
 ### Bridal Section
 
-![Bridal Section Screenshot](screenshots/bridal-section.png)
+![Bridal Section Screenshot](screenshots/bridal-section-1.png)
+![Bridal Section Screenshot](screenshots/bridal-section-2.png)
+![Bridal Section Screenshot](screenshots/bridal-section-3.png)
+![Bridal Section Screenshot](screenshots/bridal-section-4.png)
+![Bridal Section Screenshot](screenshots/bridal-section-5.png)
+
+### About Section
+
+![About Section Screenshot](screenshots/about-section-1.png)
+![About Section Screenshot](screenshots/about-section-2.png)
+![About Section Screenshot](screenshots/about-section-3.png)
+![About Section Screenshot](screenshots/about-section-4.png)
+![About Section Screenshot](screenshots/about-section-5.png)
+![About Section Screenshot](screenshots/about-section-6.png)
 
 ### Contact Section
 
-![Contact Screenshot](screenshots/contact-section.png)
+![Contact Screenshot](screenshots/contact-section-1.png)
+![Contact Screenshot](screenshots/contact-section-2.png)
 
 ## Status
 
